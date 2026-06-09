@@ -216,4 +216,11 @@ __marimo__/
 
 # Model files
 *.pth
+*.pt
+*.npz
+*.nc
 data/
+**/*.hdf5
+**/*.h5
+events.out.tfevents.*
+**/*.npz

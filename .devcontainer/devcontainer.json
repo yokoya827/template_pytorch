@@ -28,6 +28,7 @@
 	"hostRequirements": {
 		"gpu": "optional"
 	},
+	"mounts": ["source=/lustre/cidas/hsc/NLFFF/v12/,target=/workspaces/NLFFF,type=bind,readonly"],
 	// ユーザ名
 	"updateRemoteUserUID": true,
 	"remoteUser": "root"

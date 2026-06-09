@@ -1,0 +1,7 @@
+{
+    "python.analysis.autoImportCompletions": false,
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python-envs.pythonProjects": [],
+    "editor.formatOnSave": false,
+    "remote.autoForwardPortsFallback": 0
+}

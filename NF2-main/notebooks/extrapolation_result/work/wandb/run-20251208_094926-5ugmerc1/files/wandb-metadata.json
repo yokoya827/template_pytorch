@@ -1,0 +1,47 @@
+{
+  "os": "Linux-6.8.0-85-generic-x86_64-with-glibc2.39",
+  "python": "CPython 3.12.3",
+  "startedAt": "2025-12-08T09:49:26.128403Z",
+  "program": "/workspaces/template_pytorch/NF2-main/notebooks/NF2_custom_extrapolation.ipynb",
+  "codePath": "NF2-main/notebooks/NF2_custom_extrapolation.ipynb",
+  "codePathLocal": "NF2_custom_extrapolation.ipynb",
+  "git": {
+    "remote": "https://github.com/iijimahr/template_pytorch.git",
+    "commit": "7a6e94e04033d7fab7410fad270a993f3544bc6f"
+  },
+  "email": "kodaiyokoya0@gmail.com",
+  "root": "extrapolation_result/work",
+  "host": "59e79d062f67",
+  "executable": "/usr/bin/python",
+  "cpu_count": 16,
+  "cpu_count_logical": 32,
+  "gpu": "NVIDIA GeForce RTX 3090",
+  "gpu_count": 2,
+  "disk": {
+    "/": {
+      "total": "982820896768",
+      "used": "646825426944"
+    }
+  },
+  "memory": {
+    "total": "540662738944"
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 3090",
+      "memoryTotal": "25769803776",
+      "cudaCores": 10496,
+      "architecture": "Ampere",
+      "uuid": "GPU-3afeddaf-fb11-641e-c64f-4d9c0d00135c"
+    },
+    {
+      "name": "NVIDIA GeForce RTX 3090",
+      "memoryTotal": "25769803776",
+      "cudaCores": 10496,
+      "architecture": "Ampere",
+      "uuid": "GPU-028b0a0e-0bb5-11f7-27db-afa9af46e5d2"
+    }
+  ],
+  "cudaVersion": "12.9",
+  "writerId": "js2qgumnyfdml0wywstu9f2txkj929ry"
+}
